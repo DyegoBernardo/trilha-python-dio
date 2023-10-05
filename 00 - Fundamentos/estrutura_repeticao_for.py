@@ -11,5 +11,5 @@ else:
 
 
 # Exemplo utilizando a função built-in range
-for numero in range(0, 51, 5):
+for numero in range(0, 51, 2):
     print(numero, end=" ")
