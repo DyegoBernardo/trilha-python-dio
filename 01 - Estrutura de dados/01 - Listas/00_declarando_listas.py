@@ -1,7 +1,7 @@
 frutas = ["laranja", "maca", "uva"]
-print(frutas)
+print(frutas[2])
 
-frutas = []
+"""frutas = []
 print(frutas)
 
 letras = list("python")
@@ -11,4 +11,4 @@ numeros = list(range(10))
 print(numeros)
 
 carro = ["Ferrari", "F8", 4200000, 2020, 2900, "São Paulo", True]
-print(carro)
+print(carro)"""
